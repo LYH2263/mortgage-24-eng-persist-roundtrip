@@ -5,3 +5,6 @@ __pycache__/
 frontend/dist/
 .pytest_cache/
 *.db
+
+# 落库往返门禁的钉选状态（运行时生成，不入版本库）
+scripts/.roundtrip_gate_pin.json
